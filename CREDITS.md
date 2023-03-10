@@ -5,6 +5,6 @@ following names for their contribution to the project.
 
 ## Contributors
 <!-- BEGIN CONTRIBUTOR LIST -->
-* WinstonSung (Winston Sung)
 * Dianliang233
+* WinstonSung (Winston Sung)
 <!-- END CONTRIBUTOR LIST -->
