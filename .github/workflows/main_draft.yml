@@ -20,7 +20,7 @@ jobs:
       OD_USERNAME: 'oni-zh-cn@outlook.com'
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       - name: Set up Python
         uses: actions/setup-python@v4
